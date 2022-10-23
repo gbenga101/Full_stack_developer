@@ -1,0 +1,8 @@
+A full stack developer is a person who has ultimate understanding of both FrontEnd 
+development and BackEnd development and can also develop and manipulate Client side 
+software (Front End development) and Server side development (Back End 
+development). 
+TOOLS AND LANGUAGES FULL STACK DEVELOPER USE Tools: Visual Studio 
+Code, Github, Backbone, Slack etc... Language used for Client side (FrontEnd): 
+HTML, CSS, JS, Bootstrap etc... Language used for Server side (BackEnd): PHP, SQL, 
+python, Node.js, C++ etc...
