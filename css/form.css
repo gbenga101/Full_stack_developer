@@ -14,3 +14,11 @@
     color: antiquewhite;
     text-decoration: none;
 }
+li{
+    border: 2px solid rgb(240, 59, 35);
+    text-decoration: line-through;
+}
+#tList{
+    text-decoration: none;
+    background-color: yellow;
+}
