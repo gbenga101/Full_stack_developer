@@ -1,0 +1,24 @@
+.facebook-form{
+    background-color: rgb(47, 44, 216);
+    color: whitesmoke;
+    margin: 0px;
+    padding: 20px 0.5px;
+}
+.btn{
+    background-color: rgb(47, 44, 216);
+    color: antiquewhite;
+    border-color: rgb(47, 44, 216);
+}
+.log{
+    background-color: rgb(47, 44, 216);
+    color: antiquewhite;
+    text-decoration: none;
+}
+li{
+    border: 2px solid rgb(240, 59, 35);
+    text-decoration: line-through;
+}
+#tList{
+    text-decoration: none;
+    background-color: yellow;
+}
