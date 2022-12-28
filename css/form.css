@@ -14,6 +14,10 @@
     color: antiquewhite;
     text-decoration: none;
 }
+select[name="month"], [name="day"], [name="year"]{
+    background-color: black;
+    color: white;
+}
 li{
     border: 2px solid rgb(240, 59, 35);
     text-decoration: line-through;
