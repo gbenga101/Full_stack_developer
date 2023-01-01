@@ -1,0 +1,20 @@
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    height: 400px;
+}
+img:hover{
+    border-radius: 25px;
+}
+p{
+    margin: 1.66%;
+    font-family: raleway;
+    font-size: 23px;
+    border-bottom: 2px solid #f1f1f2;
+    width: 75%;
+    padding-bottom: 15px;
+}
+span{
+    font-weight: 800;
+}
